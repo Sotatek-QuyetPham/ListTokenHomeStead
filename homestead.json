@@ -1,12 +1,12 @@
 [
-  {
-    "chainId": 1,
-    "name": "Peercoin",
-    "address": "0x044d078F1c86508e13328842Cc75AC021B272958",
-    "decimals": 18,
-    "symbol": "PPC",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5.png"
-  },
+  // {
+  //   "chainId": 1,
+  //   "name": "Peercoin",
+  //   "address": "0x044d078F1c86508e13328842Cc75AC021B272958",
+  //   "decimals": 18,
+  //   "symbol": "PPC",
+  //   "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5.png"
+  // },
   {
     "chainId": 1,
     "name": "Public Index Network",
